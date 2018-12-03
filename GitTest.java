@@ -15,5 +15,11 @@ class GitTest{
 		return name;
 	}
 
+	public String getSomething(){
+			return name;
+	}
+
+
+
 
 }
